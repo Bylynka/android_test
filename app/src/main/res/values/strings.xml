@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgileEngine. Test</string>
+    <string name="repos">Repositories</string>
+    <string name="loading">Loading...</string>
+    <string name="pull_to_refresh">Pull To Refresh</string>
+    <string name="no_items">No Items</string>
+</resources>
